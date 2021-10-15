@@ -9,7 +9,7 @@ public class Fabricante {
     
     private int codigo;
     private String nombre;
-
+   private String atributo1;
     public Fabricante() {
     }
 
