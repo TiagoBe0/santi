@@ -10,6 +10,7 @@ public class Fabricante {
     private int codigo;
     private String nombre;
    private String atributo1;
+   private String atributo2;
     public Fabricante() {
     }
 
