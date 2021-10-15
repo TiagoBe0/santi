@@ -11,6 +11,7 @@ public class Fabricante {
     private String nombre;
    private String atributo1;
    private String atributo2;
+   private String santi;
     public Fabricante() {
     }
 
